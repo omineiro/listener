@@ -1,0 +1,30 @@
+2019-01-15 21:03:32,665 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2019-01-15 21:03:56,810 [Worker-6: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2019-01-15 21:14:39,855 [Worker-3: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example.camunda.cainao:demo:0.0.1-SNAPSHOT @ /Users/clopes/Documents/workspace-sts-3.9.7.RELEASE/pom.xml.
+2019-01-15 21:14:41,446 [Worker-3: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-01-15 21:14:41,452 [Worker-3: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-01-15 21:14:41,471 [Worker-3: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-01-15 21:14:41,474 [Worker-3: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-01-15 21:14:41,474 [Worker-3: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/clopes/Documents/workspace-sts-3.9.7.RELEASE/src/test/resources
+2019-01-15 21:14:43,578 [Worker-17: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-01-15 21:14:43,583 [Worker-17: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-01-15 21:14:43,585 [Worker-17: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-01-15 21:14:43,587 [Worker-17: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-01-15 21:14:43,587 [Worker-17: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/clopes/Documents/workspace-sts-3.9.7.RELEASE/src/test/resources
+2019-01-15 21:29:42,665 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-01-15 21:29:42,669 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-01-15 21:29:42,669 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-01-15 21:29:42,673 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-01-15 21:29:42,673 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/clopes/Documents/workspace-sts-3.9.7.RELEASE/src/test/resources
+2019-01-15 21:29:55,716 [Worker-14: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-01-15 21:29:55,725 [Worker-14: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-01-15 21:29:55,725 [Worker-14: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-01-15 21:29:55,728 [Worker-14: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-01-15 21:29:55,728 [Worker-14: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/clopes/Documents/workspace-sts-3.9.7.RELEASE/src/test/resources
+2019-01-15 21:30:25,937 [Worker-15: Launching Executing install in _Users_clopes_Documents_workspace-sts-3.9.7.RELEASE] INFO  o.e.m.i.launch.MavenLaunchDelegate - /Users/clopes/Documents/workspace-sts-3.9.7.RELEASE
+2019-01-15 21:30:25,939 [Worker-15: Launching Executing install in _Users_clopes_Documents_workspace-sts-3.9.7.RELEASE] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install
+2019-01-15 21:30:44,285 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-01-15 21:30:44,292 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-01-15 21:30:44,295 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-01-15 21:30:44,298 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-01-15 21:30:44,298 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/clopes/Documents/workspace-sts-3.9.7.RELEASE/src/test/resources

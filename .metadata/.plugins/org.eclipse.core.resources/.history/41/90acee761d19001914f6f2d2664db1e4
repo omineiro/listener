@@ -1,0 +1,25 @@
+package com.camunda.newDemo.DemoOfDeploy;
+
+import java.util.Random;
+
+import org.camunda.bpm.engine.delegate.DelegateExecution;
+import org.camunda.bpm.engine.delegate.JavaDelegate;
+
+import java.util.logging.Logger;
+
+
+public class CheckWeather implements JavaDelegate {
+
+	private final Logger LOGGER = Logger.getLogger(CheckWeather.class.getName());
+
+	@Override
+	public void execute(DelegateExecution execution) throws Exception {
+		Random random = new Random();
+		
+		execution.setVariable("name", "Cainã dos santos Lopes");
+		execution.setVariable("weatherOK", random.nextBoolean());
+
+		this.LOGGER.info("\n\n  ... Vai Juve! LoggerDelegate invoked by processDefinitionId=" + execution.getProcessDefinitionId() + ", activtyId=" + execution.getCurrentActivityId() + ", activtyName='" + execution.getCurrentActivityName() + "', processInstanceId=" + execution.getProcessInstanceId() + ", businessKey=" + execution.getProcessBusinessKey() + ", executionId=" + execution.getId() + " \n\n");
+	}
+
+}

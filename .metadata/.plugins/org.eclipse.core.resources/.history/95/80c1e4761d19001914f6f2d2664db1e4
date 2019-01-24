@@ -1,0 +1,10 @@
+2019-01-04 16:03:41,597 [Worker-3: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2019-01-04 16:19:36,299 [Worker-11: Creating project "demo"] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: DemoOfDeploy:demo:0.0.1-SNAPSHOT @ /Users/clopes/Documents/workspace-sts-3.9.7.RELEASE/DemoOfDeploy/demo/pom.xml.
+2019-01-04 16:19:37,042 [Worker-11: Creating project "demo"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /demo/src/main/java
+2019-01-04 16:19:37,043 [Worker-11: Creating project "demo"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /demo/src/main/resources
+2019-01-04 16:19:37,044 [Worker-11: Creating project "demo"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /demo/src/test/java
+2019-01-04 16:19:37,044 [Worker-11: Creating project "demo"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /demo/src/test/resources
+2019-01-04 16:19:40,377 [Worker-15: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-04 16:19:40,384 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-01-04 16:19:40,386 [Worker-15: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-04 16:19:40,387 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource

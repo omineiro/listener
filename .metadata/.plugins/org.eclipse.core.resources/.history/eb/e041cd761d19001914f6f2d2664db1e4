@@ -1,0 +1,4 @@
+#Fri Jan 04 16:20:54 BRST 2019
+com.camunda.newDemo\:DemoOfDeploy\:pom\:\:0.0.1=/Users/clopes/Documents/workspace-sts-3.9.7.RELEASE/DemoOfDeploy/demo/pom.xml
+com.camunda.newDemo\:DemoOfDeploy\:war\:\:0.0.1=/Users/clopes/Documents/workspace-sts-3.9.7.RELEASE/DemoOfDeploy/demo/target/classes
+com.camunda.newDemo\:DemoOfDeploy\:jar\:tests\:0.0.1=/Users/clopes/Documents/workspace-sts-3.9.7.RELEASE/DemoOfDeploy/demo/target/test-classes
